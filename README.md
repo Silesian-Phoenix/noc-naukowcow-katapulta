@@ -29,9 +29,9 @@ To install the project, follow these steps:
 
 ## Usage
 
-- ***Button 1** allows for switching the controlled stepper motor,
-- ***Button 2** rotates current stepper motor one way,
-- ***Button 3** rotates current stepper motor the other way.
+- ***Button 1*** allows for switching the controlled stepper motor,
+- ***Button 2*** rotates current stepper motor one way,
+- ***Button 3*** rotates current stepper motor the other way.
 
 That's pretty much it 😅
 
