@@ -8,14 +8,6 @@ This project contains code wich enables full controll over movements of tiny 3D 
 
 The electrical circuit of this deadly cannon is powered by **two racks of four 1.5V AA batteries each**, connected in series.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
-- [License](#license)
-- [Contact](#contact)
-
 ## Installation
 
 ### Prerequisites
